@@ -1,0 +1,3 @@
+[submodule "burning-man"]
+	path = burning-man
+	url = git@github.com:Coder-Heroes/burning-man.git
